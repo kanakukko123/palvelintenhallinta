@@ -11,7 +11,8 @@ Tein muutoksia __Readme.md__ ja kans __MarkDown.md__ tiedostoihin. Tämän jälk
       git commit
       git push
 ![image](/pics/bkohta.PNG)
+
 Githubista näin että asiat olivat menneet läpi
 
 ## c)Kaikki kirjataan
-
+Komennolla 'git log --pretty=online' näkee kaikki commitit ja niiden SHA avaimet
