@@ -27,6 +27,13 @@ Komennolla `git blame <file name>` nähdään milloin tiedoston rivit on lisätt
 
 ![image](/pics/blame.PNG)
 
+## d)Jotain tyhmää
 
+Tein __Readme.md__ tiedostoon tyhmiä muutoksia, jonka jälkeen poistin ne ja tarkistin että ne olivat poistuneet.
+
+Muutosten jälkeen ajoin komennot:
+
+        git add Readme.md
+        git reset --hard
 
 
