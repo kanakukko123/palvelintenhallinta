@@ -36,4 +36,5 @@ Muutosten jälkeen ajoin komennot:
         git add Readme.md
         git reset --hard
 
-
+![image](/pics/Tyh.PNG)
+![image](/pics/Korjattu.PNG)
