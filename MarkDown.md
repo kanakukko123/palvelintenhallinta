@@ -17,4 +17,14 @@ Githubista näin että asiat olivat menneet läpi
 ## c)Kaikki kirjataan
 Komennolla `git log --pretty=oneline` näkee kaikki commitit ja niiden SHA avaimet
 
-![image](/pics/Ckohdan kuva1.PNG)
+![image](/pics/Ckuva1.PNG)
+
+Komennolla `git diff` näyttää muutokset, jotka on tehty viimeisen commitin jälkeen.
+
+
+
+Komennolla `git blame <file name>` nähdään milloin tiedoston rivit on lisätty.
+
+
+
+
