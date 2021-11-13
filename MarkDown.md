@@ -15,4 +15,6 @@ Tein muutoksia __Readme.md__ ja kans __MarkDown.md__ tiedostoihin. Tämän jälk
 Githubista näin että asiat olivat menneet läpi
 
 ## c)Kaikki kirjataan
-Komennolla `git log --pretty=online` näkee kaikki commitit ja niiden SHA avaimet
+Komennolla `git log --pretty=oneline` näkee kaikki commitit ja niiden SHA avaimet
+
+![image](/pics/Ckohdan kuva1.PNG)
