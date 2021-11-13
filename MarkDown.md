@@ -25,6 +25,8 @@ Komennolla `git diff` n채ytt채채 muutokset, jotka on tehty viimeisen commitin j�
 
 Komennolla `git blame <file name>` n채hd채채n milloin tiedoston rivit on lis채tty.
 
+![image](/pics/blame.PNG)
+
 
 
 
