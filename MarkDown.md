@@ -1,5 +1,14 @@
 # Tehtävä 3 
 
+## z)Lue ja tiivistä
+Luin artikkelin [Markdown references](https://commonmark.org/help/). Artikkeli käsittelee Markdownin yleisimpiä syntakseja.
+
+* Heading: `# "Heading"`
+* Heading2: `## "Heading"`
+* List: `* "listattava asia"`
+* Kuva: `![image]("url")`
+
+
 ## a)Kirjoita raportti MarkDownina
 Tässä se tulee tehtyä.
 
@@ -38,3 +47,13 @@ Muutosten jälkeen ajoin komennot:
 
 ![image](/pics/Tyh.PNG)
 ![image](/pics/Korjattu.PNG)
+
+## e)Formula
+
+Loin init.sls tiedoston h3e nimiseen hakemistoon ja laitoin sinne seuraavat komennot:
+
+
+
+Tämän jälkeen vaan ajoin komennon `sudo salt-call --local -l info state.apply h3e` ja sain seuraavan vastauksen.
+
+
