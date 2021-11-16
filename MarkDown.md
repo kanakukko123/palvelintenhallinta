@@ -48,12 +48,14 @@ Muutosten jälkeen ajoin komennot:
 ![image](/pics/Tyh.PNG)
 ![image](/pics/Korjattu.PNG)
 
-## e)Formula
+## d)Formula
 
-Loin init.sls tiedoston h3e nimiseen hakemistoon ja laitoin sinne seuraavat komennot:
+Loin init.sls tiedoston h3d nimiseen hakemistoon ja laitoin sinne seuraavat komennot:
 
+![image](/pics/dkohtaa.PNG)
 
+Tämän jälkeen vaan ajoin komennon `sudo salt-call --local -l info state.apply h3d` ja sain seuraavan vastauksen.
 
-Tämän jälkeen vaan ajoin komennon `sudo salt-call --local -l info state.apply h3e` ja sain seuraavan vastauksen.
+![image](/pics/dkohdankuva.PNG)
 
-
+En ole ihan satavarma että ymmärsinkö tehtävän oikein.
