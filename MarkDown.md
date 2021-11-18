@@ -31,7 +31,7 @@ Komennolla `git log --pretty=oneline` näkee kaikki commitit ja niiden SHA avaim
 
 Komennolla `git diff` näyttää muutokset, jotka on tehty viimeisen commitin jälkeen.
 
-![image](/pics/ckohta.PNG)
+![image](/pics/Ckohta.PNG)
 
 Toimii ennen kun on tehnyt `git add` tai sitten `git diff --cache` ennen kun on tehnyt git commitin.
 
