@@ -1,3 +1,4 @@
+
 # Tehtävä 3 
 
 ## z)Lue ja tiivistä
@@ -30,7 +31,9 @@ Komennolla `git log --pretty=oneline` näkee kaikki commitit ja niiden SHA avaim
 
 Komennolla `git diff` näyttää muutokset, jotka on tehty viimeisen commitin jälkeen.
 
+![image](/pics/ckohta.PNG)
 
+Toimii ennen kun on tehnyt `git add` tai sitten `git diff --cache` ennen kun on tehnyt git commitin.
 
 Komennolla `git blame <file name>` nähdään milloin tiedoston rivit on lisätty.
 
